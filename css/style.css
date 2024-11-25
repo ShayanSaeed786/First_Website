@@ -779,3 +779,26 @@ a {
   max-width: 500px;
   margin: 0 auto;
 }
+
+/*Features*/
+
+.feature__heading {
+  margin: 1rem 0;
+}
+
+.feature {
+  gap: 4rem 2rem;
+  margin: 2rem 0;
+}
+
+.feature__image {
+  width: 100%;
+}
+
+.feature:first-of-type {
+  margin: 6rem 0 0 0;
+}
+
+.feature .block__para {
+  padding-bottom: 20px;
+}
